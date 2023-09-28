@@ -13,3 +13,8 @@ Welcome to my beginner project repository! This repository contains a variety of
 ## Project 3: Weather App
 
 **Description:** This project is Weather application built using Flutter. In this application I learned how to deal with Api
+
+
+## Project 4: Tune Player App
+
+**Description:** This project is Tune Player application built using Flutter. In this application I learned play sound in project
