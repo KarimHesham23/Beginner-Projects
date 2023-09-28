@@ -4,8 +4,12 @@ Welcome to my beginner project repository! This repository contains a variety of
 
 ## Project 1: Basketball Counter
 
-**Description:** This project is a basic counter application built using flutter.I leaned many things in this application.
+**Description:** This project is a basic counter application built using flutter.I leaned many basic things in this application.
 
-## Project 1: Chat App
+## Project 2: Chat App
 
 **Description:** This project is a chat application built using Flutter. I learned in this application how to use Firebase and how to implement authentication.
+
+## Project 3: Weather App
+
+**Description:** This project is Weather application built using Flutter. In this application I learned how to deal with Api
