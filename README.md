@@ -26,3 +26,8 @@ Welcome to my beginner project repository! This repository contains a variety of
 
 **Description:** This project is News application built using Flutter. In this application I used api from internet and learned provider state management.
 
+## Project 7: Store APP
+
+**Description:** This project is small store application built using Flutter. In this application, I learned how to deal with databases via API.
+
+
